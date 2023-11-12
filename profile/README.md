@@ -1,12 +1,21 @@
-## Hi there 👋
+## Welcome# 欢迎来到Tisen MX
 
-<!--
+![](.github/readma/image/tisenmx.png)
 
-**Here are some ideas to get you started:**
+# 最新消息
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### 我们的第一部二创视觉小说正在制作中
+
+- [x] 文案
+
+- [x] 主题：明日方舟二创
+
+- [ ] 程序制作
+
+- [ ] CG插入
+
+- [ ] 音乐插入
+
+  截止至2023年11月我们只确定了制作主题和文案的撰写
+
+  预计将在2024年2月到三月期间完成制作和打包我们的第一部作品
